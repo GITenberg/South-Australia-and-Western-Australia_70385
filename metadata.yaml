@@ -1,5 +1,8 @@
 _repo: South-Australia-and-Western-Australia_70385
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70385-h/images/cover.jpg
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -10,6 +13,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Anthony_Trollope
 description: '"Being a portion of the work entitled ''Australia and New Zealand,''
   by the same author."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70385#South-Australia-and-Western-Australia
 gutenberg_issued: '2023-03-26'
 identifiers:
   gutenberg: '70385'
